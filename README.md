@@ -1,8 +1,13 @@
 **gnome-tweaks:**
+
 **Applications**: *Fluent-Dark*
+
 **Cursor**: *Volantes_cursor*
+
 **Icons**: *La-capitanie-icon-theme*
+
 **Shell**: *Marble-gray-dark*
+
 **Sounds**: *Yaru*
 
 **Font-size**: *0.89*
@@ -13,7 +18,8 @@
 
 **Apps**:
 
-code (visual studio code)
+1. code (visual studio code)
+
 2. web storm
 3. intelliej
 4. eclipse
