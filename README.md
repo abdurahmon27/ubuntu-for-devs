@@ -23,8 +23,7 @@
 2. web storm
 3. intelliej
 4. eclipse
-5. sublime
-6. text
+5. sublime text
 7. teams
 8. chrome
 9. discord
